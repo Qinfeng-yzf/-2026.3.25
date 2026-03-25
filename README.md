@@ -3,7 +3,7 @@
 本仓库是**学生版**最简可复现模板：你需要补全 **任务剖面（mission profile）** 与 **RBD 结构（model.json）**，
 程序才能计算并生成 `output/lab1_report_<student_id>_<student_name>.md`。
 
-实验的完整描述见 `description.md`。
+实验的完整描述见 `description.md`。哈哈哈
 
 ---
 
